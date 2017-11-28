@@ -24,6 +24,7 @@ namespace ClubMall.Controllers
 
         public ActionResult Contact()
         {
+        //Test
             ViewBag.Message = "Your contact page.";
 
             return View();
