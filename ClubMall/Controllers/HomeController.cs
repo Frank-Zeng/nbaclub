@@ -16,6 +16,7 @@ namespace ClubMall.Controllers
 
         public ActionResult About()
         {
+        //Test
             ViewBag.Message = "Your application description page.";
 
             return View();
